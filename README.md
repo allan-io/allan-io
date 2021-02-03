@@ -1,4 +1,4 @@
-![developer gif](https://res.cloudinary.com/allandev/image/upload/v1612320529/programmer_iingtg.gif)
+![developer gif](https://res.cloudinary.com/allandev/image/upload/c_scale,w_500/v1612320529/programmer_iingtg.gif)
 ### Hi there 👋
 - 🔭 I’m currently working on making the world a better place
 - 🌱 I’m currently learning everything
